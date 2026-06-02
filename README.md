@@ -35,7 +35,7 @@ Mukeun Choi_1 and Taeyeon Oh_2*
 |------|------|
 | `README.md` | This File |
 
-###  Using Model
+### 🧠 Using Model
 
 | Model | Provider | API string |
 |---|---|---|
@@ -45,7 +45,7 @@ Mukeun Choi_1 and Taeyeon Oh_2*
 
 ### Dataset
 
-| Dataset | Task | Split | n (use) | Whole Size (Utilization rate) |
+| Dataset | Task | Split | n (use) | Whole Size |
 |---|---|---|---|---|---|
 | GSM8K | math | test | 1,319 | 1,319 (100%) |
 | MMLU-Pro | mcq | test | 1,000 | 12,032 (8.3%) |
@@ -125,8 +125,3 @@ datasets==3.6.0
 numpy==1.26.4
 scipy==1.13.0
 ```
-
-## 📝 License
-
-This project is licensed under the MIT License.
-
