@@ -78,7 +78,7 @@ Mukeun Choi_1 and Taeyeon Oh_2*
 | H3: NE fulfillment rate ≥ 80% | 0/7 (0%) | quality_score Binary Limit |
 
 ## 🚀 Quick Start
-1) Login to Google Colab environment (A100 GPU 40GB RAM)
+1) Login to Google Colab environment (NVIDIA T4 GPU 16GB RAM)
 2) Copy and paste Python files in the "scripts" folder into each cell in order of number
 3) Connect Google Drive to your colab file
 4) Setup a API key of 3 LLMs and Hugging-face into the Google Colab
