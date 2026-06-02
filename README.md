@@ -43,10 +43,10 @@ Mukeun Choi_1 and Taeyeon Oh_2*
 | GPT-5 mini | OpenAI | `gpt-5-mini-2025-08-07` |
 | Claude Haiku 4.5 | Anthropic | `claude-haiku-4-5-20251001` |
 
-### Dataset
+### 💾 Dataset
 
 | Dataset | Task | Split | n (use) | Whole Size |
-|---|---|---|---|---|---|
+|---|---|---|---|---|
 | GSM8K | math | test | 1,319 | 1,319 (100%) |
 | MMLU-Pro | mcq | test | 1,000 | 12,032 (8.3%) |
 | GPQA Diamond | mcq | train* | 198 | 198 (100%) |
@@ -69,7 +69,7 @@ Mukeun Choi_1 and Taeyeon Oh_2*
 
 > Δ = Nash-NE − Best Baseline
 
-## Hypothesis Verification Summary
+## 🔤 Hypothesis Verification Summary
 
 | Hypothesis | Adoption Rate | Result |
 |---|---|---|
