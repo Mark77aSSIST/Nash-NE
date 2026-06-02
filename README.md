@@ -75,7 +75,7 @@ Mukeun Choi_1 and Taeyeon Oh_2*
 |---|---|---|
 | H1: Nash-NE > Majority-Vote | 3/7 (42.9%) | Partial support in non-saturated benchmarks |
 | H2: Nash-NE ≥ MoA | **7/7 (100%)** | **Adopting All Datasets** |
-| H3: NE 충족률 ≥ 80% | 0/7 (0%) | quality_score Binary Limit |
+| H3: NE fulfillment rate ≥ 80% | 0/7 (0%) | quality_score Binary Limit |
 
 ## 🚀 Quick Start
 1) Login to Google Colab environment (A100 GPU 40GB RAM)
