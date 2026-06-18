@@ -91,7 +91,7 @@ DATASET_CONFIGS = {
         "n_choices"  : 4,
     },
     "truthfulqa": {
-        "hf_path"    : "truthful_qa",
+        "hf_path"    : "truthfulqa/truthful_qa",
         "hf_name"    : "multiple_choice",
         "split"      : "validation",
         "task_type"  : "mcq",
